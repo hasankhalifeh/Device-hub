@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body{
+    background-image: url("Backgroun.jpg");
+}
+
+#headTitle{
+    text-align: center;
+    background-color: grey;
+    color: #f5f5f5;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: -5px;
+    width: 100%;
+    font-family: Roboto;
+}
+
+#myForm{
+   
+}
+
+
+#categoryList{
+   display: block;
+}
+
+#form{
+    margin-top: 10px;
+}
+
+
